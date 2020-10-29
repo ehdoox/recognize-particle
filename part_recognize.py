@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import matplotlib.pyplot as plt
 
-img_gray = cv2.imread("image1.tif", cv2.IMREAD_GRAYSCALE)
+img_gray = cv2.imread("image1.PNG", cv2.IMREAD_GRAYSCALE)
 img_color = cv2.imread("", cv2.IMREAD_COLOR)
 img_blur = cv2.medianBlur(img_gray, 9)
 
