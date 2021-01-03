@@ -1,6 +1,5 @@
 # recognize-particle
-
-This is a program to recognize nanoparticles in an image from one of my experiment at school
+program to recognize nanoparticles
 
 Goal: output the position and color data
 
